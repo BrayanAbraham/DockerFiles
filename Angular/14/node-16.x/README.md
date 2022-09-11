@@ -2,8 +2,8 @@
 
 ## Base Image
 
-[brayanabraham/node-16.x:1.0.0](https://hub.docker.com/layers/node-16.x/brayanabraham/node-16.x/1.0.0/images/sha256-34d92f67e35d06c60931cb35f40d7572e18815913c47619a6b8a22dcd3be8573?context=explore)
+[brayanabraham/node-16.x:1.1.0](https://hub.docker.com/layers/brayanabraham/node-16.x/1.1.0/images/sha256-49b11c6b7999450a7a17974001008dbed627245cd8627f371e9a0459145a8ca7)
 
 ## Installed Programs
 
-1. Angular CLI v14.1.0
+1. Angular CLI v14.2.2
