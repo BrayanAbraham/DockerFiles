@@ -2,7 +2,7 @@
 
 ## Base Image
 
-Debian:bullseye-slim
+Debian:stable-slim
 
 ## Installed Programs
 
